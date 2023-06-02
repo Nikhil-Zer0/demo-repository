@@ -2,3 +2,4 @@ I want this to go into commit 2
 adsfd
 asdfaf
 asg
+fixed a bug
